@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that changes the working directory to the user’s home directory.
+A script that changes the working directory to the user’s home directory
