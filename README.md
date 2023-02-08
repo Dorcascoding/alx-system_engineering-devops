@@ -1,2 +1,2 @@
 #!/bin/bash
-11. Lists
+12. File type
