@@ -1,2 +1,2 @@
 #!/bin/bash
-2. There is no place like home
+6. Welcome
